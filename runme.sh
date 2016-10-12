@@ -10,5 +10,5 @@ if [ $rval -eq 1 ]; then
 
 else
     echo using: docker-compose
-    docker-compose start
+    docker-compose up
 fi
