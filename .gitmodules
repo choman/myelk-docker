@@ -1,0 +1,6 @@
+[submodule "elk-docker"]
+	path = elk-docker
+	url = https://github.com/spujadas/elk-docker.git
+[submodule "gitconfig"]
+	path = gitconfig
+	url = https://github.com/choman/gitconfig.git
