@@ -4,7 +4,7 @@
 which docker-compose > /dev/null
 rval=$?
 
-if [ $rval -eq 1 ]; then
+if [ $rval -eq 0 ]; then
     echo using: docker
     cd elk-docker
     docker build -t elk .
