@@ -1,0 +1,1 @@
+- Resolve build and runme issues with docker-compose
